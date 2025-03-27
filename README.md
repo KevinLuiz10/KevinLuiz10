@@ -1,6 +1,6 @@
-# Olá, bem vindo ao meu perfil!
+### Olá, bem vindo ao meu perfil!
 
-## Meu nome é Kevin Luiz e sou estudante de análise e desenvolvimento de sistemas pela UTFPR, campus Cornélio Procópio.
+Meu nome é Kevin Luiz e sou estudante de análise e desenvolvimento de sistemas pela UTFPR, campus Cornélio Procópio.<br/><br/>
 
 Repositórios de projetos pessoais:<br/>
 . [**Simulador bancario**](https://github.com/KevinLuiz10/pooSimuladorBancario) - Projeto desenvolvido em Java, que possui como objetivo simular o funcionamento de uma instituição bancária;<br/>
